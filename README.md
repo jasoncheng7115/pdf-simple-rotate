@@ -14,8 +14,8 @@
 2. 操作簡單，三個按鈕分別按下就是 90/180/270，沒有多的功能，使用者一看就會。
 3. 轉換後，自動在來源檔同目錄產生轉換後檔案，檔名依轉向角度自動加上 _90、_180、_270。
 4. 免安裝，有 .NET Framrwork 4.0 即可執行。 
-5. 功能基於 iTextSharp PDF Library 製作。
-6. 按鈕圖示 FamFamFam Slik Icons (mjames@gmail.com)。
+5. 轉檔功能基於 iTextSharp PDF Library (https://sourceforge.net/projects/itextsharp/)。
+6. 按鈕圖示來自 FamFamFam Slik Icons (mjames@gmail.com)。
   
 
   
