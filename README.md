@@ -18,7 +18,8 @@
 6. 按鈕圖示 FamFamFam Slik Icons (mjames@gmail.com)。
    
 
-註1: PDFSAM 很好，但在我的環境會有 JavaRuntime 問題，對 User 操作也較複雜
+  
+- 註1: PDFSAM 很好，但在我的環境會有 JavaRuntime 問題，對 User 操作也較複雜
   
    
   
