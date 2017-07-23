@@ -16,9 +16,10 @@
 4. 免安裝，有 .NET Framrwork 4.0 即可執行。 
 5. 功能基於 iTextSharp PDF Library 製作。
 6. 按鈕圖示 FamFamFam Slik Icons (mjames@gmail.com)。
-   
+  
 
-  
+  
+  
 ## 補充說明
 - 有一款 PDFSAM 很好用，但在我的環境會有 JavaRuntime 問題，對 User 操作也較複雜，只好自己做。
   
