@@ -19,8 +19,8 @@
 ## 下載位置
   
   
-- https://github.com/jasoncheng7115/pdf-simple-rotate/releases  
-下載 latest.zip 即可。
+- https://github.com/jasoncheng7115/pdf-simple-rotate/releases  
+解開 latest.zip 即可直接執行。
   
 
   
