@@ -9,8 +9,8 @@
 5. 基於 iTextSharp PDF Library 製作。
 
 
-#####將 PDF 檔案直接拖曳進本程式視窗。
+##### 將 PDF 檔案直接拖曳進本程式視窗。
 ![image](https://github.com/jasoncheng7115/pdf-simple-rotate/blob/master/READ_01.png?raw=true)
 
-#####點選左邊轉換按鈕，立即產生結果。
+##### 點選左邊轉換按鈕，立即產生結果。
 ![image](https://github.com/jasoncheng7115/pdf-simple-rotate/blob/master/READ_02.png?raw=true)
