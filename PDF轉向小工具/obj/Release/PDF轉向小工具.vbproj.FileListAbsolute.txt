@@ -11,3 +11,16 @@ D:\JDATA\專案\應用程式\pdf轉向\PDF轉向小工具\PDF轉向小工具\obj
 D:\JDATA\專案\應用程式\pdf轉向\PDF轉向小工具\PDF轉向小工具\obj\Release\PDF轉向小工具.exe
 D:\JDATA\專案\應用程式\pdf轉向\PDF轉向小工具\PDF轉向小工具\obj\Release\PDF轉向小工具.xml
 D:\JDATA\專案\應用程式\pdf轉向\PDF轉向小工具\PDF轉向小工具\obj\Release\PDF轉向小工具.pdb
+D:\JDATA\專案\PDF轉向小工具\pdf-simple-rotate\PDF轉向小工具\bin\Release\PDF轉向小工具.exe.config
+D:\JDATA\專案\PDF轉向小工具\pdf-simple-rotate\PDF轉向小工具\obj\Release\PDF轉向小工具.exe
+D:\JDATA\專案\PDF轉向小工具\pdf-simple-rotate\PDF轉向小工具\obj\Release\PDF轉向小工具.xml
+D:\JDATA\專案\PDF轉向小工具\pdf-simple-rotate\PDF轉向小工具\obj\Release\PDF轉向小工具.pdb
+D:\JDATA\專案\PDF轉向小工具\pdf-simple-rotate\PDF轉向小工具\bin\Release\PDF轉向小工具.exe
+D:\JDATA\專案\PDF轉向小工具\pdf-simple-rotate\PDF轉向小工具\bin\Release\PDF轉向小工具.pdb
+D:\JDATA\專案\PDF轉向小工具\pdf-simple-rotate\PDF轉向小工具\bin\Release\PDF轉向小工具.xml
+D:\JDATA\專案\PDF轉向小工具\pdf-simple-rotate\PDF轉向小工具\bin\Release\itextsharp.dll
+D:\JDATA\專案\PDF轉向小工具\pdf-simple-rotate\PDF轉向小工具\bin\Release\itextsharp.xml
+D:\JDATA\專案\PDF轉向小工具\pdf-simple-rotate\PDF轉向小工具\obj\Release\PDF轉向小工具.vbprojResolveAssemblyReference.cache
+D:\JDATA\專案\PDF轉向小工具\pdf-simple-rotate\PDF轉向小工具\obj\Release\PDF轉向小工具.Form1.resources
+D:\JDATA\專案\PDF轉向小工具\pdf-simple-rotate\PDF轉向小工具\obj\Release\PDF轉向小工具.Resources.resources
+D:\JDATA\專案\PDF轉向小工具\pdf-simple-rotate\PDF轉向小工具\obj\Release\PDF轉向小工具.vbproj.GenerateResource.Cache
