@@ -6,8 +6,9 @@
 2. 操作簡單，三個按鈕分別按下就是 90/180/270，沒有多的功能，使用者一看就會。
 3. 轉換後，自動在來源檔同目錄產生轉換後檔案。
 4. 免安裝，有 .NET Framrwork 4.0 即可執行。
-5. 基於 iTextSharp PDF Library 製作。
-  
+5. 功能基於 iTextSharp PDF Library 製作。
+6. 圖示採用 FamFamFam (mjames@gmail.com)。
+   
    
   
   
